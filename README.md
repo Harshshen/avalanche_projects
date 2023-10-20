@@ -2,9 +2,7 @@
 Error handling
 
 ## Description
-
-here i have used three function that is require, assesrt, and revert function which help in error handling
-
+in this program there i used assert, require, revert for error handling with logic of mymoney should be greater than 100 for require then mymoney should be less than 1000 for assert and my money should not be equal to 250 for revert .
 ## Getting Started
 
 ### Installing
